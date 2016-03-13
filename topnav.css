@@ -53,6 +53,12 @@ there are definitely some properties you should add!*/
         display: inline-block;
         float: left;
     }
+    .p1 {
+      background-color: white;
+    }
+    .p2 {
+      background-color: white;
+    }
     aside {
         width: 17%;
         display: inline-block;
