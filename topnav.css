@@ -1,20 +1,19 @@
 /* Note to students: Some properties are given to you to fill out,
 others you can modify as they stand, and if you have time,
 there are definitely some properties you should add!*/
-    */*{
-      border: 1px solid red;
-    }*/
+
     html {
       height: 100%;
     }
     .bigfont {
-      font-size: 2em;
+      font-size: 3em;
     }
     body {
        width: 900px;
        height: 100%;
        background-color: transparent;
        background-image: url("http://prettywallpapershd.xyz/wp-content/uploads/2016/02/puppy_wallpaper_for_laptop_gn6.jpg");
+   }
     }
     header {
         background-color: transparent;
@@ -25,7 +24,7 @@ there are definitely some properties you should add!*/
     }
     nav {
         float: left;
-        background-color: pink;
+        background-color: #0099ff;
         border: 3px solid blue;
     }
     nav ul {
@@ -53,7 +52,6 @@ there are definitely some properties you should add!*/
         display: inline-block;
         float: left;
     }
-
     aside {
         width: 17%;
         display: inline-block;
