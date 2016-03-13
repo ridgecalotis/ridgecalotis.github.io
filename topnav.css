@@ -11,7 +11,7 @@ there are definitely some properties you should add!*/
       font-size: 2em;
     }
     body {
-       width: 100%;
+       width: 900px;
        height: 100%;
        background-color: transparent;
        background-image: url("http://prettywallpapershd.xyz/wp-content/uploads/2016/02/puppy_wallpaper_for_laptop_gn6.jpg");
@@ -53,12 +53,7 @@ there are definitely some properties you should add!*/
         display: inline-block;
         float: left;
     }
-    .p1 {
-      background-color: white;
-    }
-    .p2 {
-      background-color: white;
-    }
+
     aside {
         width: 17%;
         display: inline-block;
